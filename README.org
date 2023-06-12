@@ -1,0 +1,10 @@
+* delorean
+
+A simple set of macros for mocking time
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cddr/delorean.git   |
+| commit  | 22dd28a  |
+| systems | delorean |
+|---------+-------------------------------------------|
+
